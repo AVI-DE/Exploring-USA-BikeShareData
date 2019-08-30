@@ -25,3 +25,8 @@ Avisekh Dey
 Acknowledgments
 This project is part of the requirement for completion of Udacity Python Nanodegree program.
 The various instructors video present in this course have been a major contributor for the successful completion of this project along with some help from Google.com
+
+SOLUTION OUTPUT
+
+![1](https://user-images.githubusercontent.com/46341508/64040163-611f0a80-cb2a-11e9-9061-43f7a3b50c35.PNG)
+![2](https://user-images.githubusercontent.com/46341508/64040164-611f0a80-cb2a-11e9-9c73-20e02465cbb1.PNG)
